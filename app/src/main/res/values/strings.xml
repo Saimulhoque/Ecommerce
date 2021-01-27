@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">IShopp</string>
+    <string name="onboard_1_description">Shop from a list of items</string>
+    <string name="onboard_2_description">All your favourites is here</string>
+    <string name="onboard_3_description">Easy payment with payment of your choice</string>
+    <string name="onboard_4_description">Let your item be delivered right at your door step</string>
+    <string name="get_started">Get Started</string>
+    <string name="email_input">Your Email</string>
+    <string name="password_input">Your Password</string>
+    <string name="name_input">Your Name</string>
+    <string name="repeat_password_input">Repeat Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="send">Send</string>
+    <string name="skip">Skip</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="search_keyword">Enter keyword to search</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="account">Account</string>
+    <string name="notifications">Notifications</string>
+    <string name="food">Food</string>
+    <string name="clothes">Clothes</string>
+    <string name="shoes">Shoes</string>
+    <string name="electronics">Electronics</string>
+    <string name="computers">Computers</string>
+    <string name="phones">Phones</string>
+    <string name="beauty">Beauty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">YES</string>
+    <string name="Sign_out">Sign Out</string>
+    <string name="no">No</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="log_in">Login In</string>
+    <string name="vender_registration">Vender Registration</string>
+    <string name="vender_activity_textview">Please enter details of your business</string>
+    <string name="business_name_hint">Business Name</string>
+    <string name="business_location_hint">Business Location</string>
+    <string name="short_description_hint">Short description about your business</string>
+    <string name="paybill_hint">MPESA paybill number</string>
+    <string name="register_your_business_button">Register your business</string>
+    <string name="mpesa_account_name_hint">     MPESA account name</string>
+
+    <string name="vendor_reg_successful">You have successfully registered as a vendor</string>
+    <string name="vendor_reg_error">An error occurred while registering as a vendor, try again later</string>
+
+</resources>
